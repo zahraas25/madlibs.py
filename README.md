@@ -1,7 +1,9 @@
 # madlibs.py
 
 name = input("Enter your name:")
+
 verb_1 = input("Enter your verb of choice, and press enter:")
+
 adj_1 = input("Enter your adjective of choice, and press enter:")
 verb_2 = input("Enter your second verb of choice, and press enter:")
 body_part = input("Enter your body part name of choice, and press enter:")
